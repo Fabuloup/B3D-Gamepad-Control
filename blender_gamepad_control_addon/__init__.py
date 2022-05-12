@@ -3,7 +3,7 @@ bl_info = {
     "description": "Allows you to control the camera with your gamepad.",
     "author": "Fabien RICHARD",
     "version": (1, 1),
-    "blender": (2, 80, 0),
+    "blender": (3, 1, 2),
     "category": "3D View",
 }
 
